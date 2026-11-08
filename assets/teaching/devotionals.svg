@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 430" role="img" aria-label="Devotionals illustration">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".58" stop-color="#10243a"/><stop offset="1" stop-color="#1d2632"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#e7b957" stop-opacity=".24"/><stop offset="1" stop-color="#e7b957" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1000" height="430" fill="url(#bg)"/>
+<circle cx="790" cy="210" r="260" fill="url(#glow)"/>
+<g fill="none" stroke="#e7b957" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".9"><circle cx="500" cy="220" r="85"/><path d="M500 80 V45 M500 395 V360 M360 220 H325 M675 220 H640 M400 120 L375 95 M600 120 L625 95 M400 320 L375 345 M600 320 L625 345"/><path d="M460 240 Q500 180 540 240 Q500 285 460 240 Z"/></g>
+<g fill="none" stroke="#e7b957" stroke-opacity=".18"><circle cx="500" cy="220" r="175"/><circle cx="500" cy="220" r="205"/></g>
+<path d="M0 390 Q240 350 500 395 T1000 380 V430 H0Z" fill="#030b16" opacity=".42"/>
+
+
+
+<path d="M70 300 H245" stroke="#e7b957" stroke-width="3" stroke-linecap="round"/>
+</svg>

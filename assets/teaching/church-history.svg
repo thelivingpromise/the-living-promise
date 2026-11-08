@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 430" role="img" aria-label="Church History illustration">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".58" stop-color="#10243a"/><stop offset="1" stop-color="#1d2632"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#e7b957" stop-opacity=".24"/><stop offset="1" stop-color="#e7b957" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1000" height="430" fill="url(#bg)"/>
+<circle cx="790" cy="210" r="260" fill="url(#glow)"/>
+<g fill="none" stroke="#e7b957" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".9"><path d="M365 310 V205 L500 115 L635 205 V310 Z"/><path d="M465 310 V245 Q500 205 535 245 V310 M500 115 V70 M475 88 H525"/><path d="M390 205 H610"/></g>
+<g fill="none" stroke="#e7b957" stroke-opacity=".18"><circle cx="500" cy="220" r="175"/><circle cx="500" cy="220" r="205"/></g>
+<path d="M0 390 Q240 350 500 395 T1000 380 V430 H0Z" fill="#030b16" opacity=".42"/>
+
+
+
+<path d="M70 300 H245" stroke="#e7b957" stroke-width="3" stroke-linecap="round"/>
+</svg>
